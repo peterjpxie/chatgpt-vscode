@@ -1,6 +1,6 @@
 # ChatGPT extension for VSCode
 
-A fork of [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) bespoke for myself.
+A fork of [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) bespoke for myself. - WIP
 <!--
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/timkmecl.chatgpt)](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/timkmecl.chatgpt)](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)

@@ -5,8 +5,8 @@ A fork of [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/timkmecl.chatgpt)](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/timkmecl.chatgpt)](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)
 [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/timkmecl.chatgpt)](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)
--->
 [![Github stars](https://img.shields.io/github/stars/peterjpxie/chatgpt-vscode)](https://github.com/peterjpxie/chatgpt-vscode)
+-->
 
 This Visual Studio Code extension allows you to use the [ChatGPT API](https://platform.openai.com/docs/guides/text-generation/chat-completions-api) to generate code or natural language responses to your questions, right within the editor.
 
